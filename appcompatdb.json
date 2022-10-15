@@ -1,0 +1,2095 @@
+{
+  "$schema": "appcompatdb_schema.json",
+
+  "com.gameloft.android.AMAZ.GloftDMAS": {
+    "DisplayName": "Minion Rush: Running game",
+    "Version": {
+      "Any": {
+        "SwipeForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.kiloo.subwaysurf": {
+    "DisplayName": "Subway Surfers",
+    "Version": {
+      "Any": {
+        "SwipeForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.outfit7.herodash.amazon": {
+    "DisplayName": "Talking Tom Hero Dash",
+    "Version": {
+      "Any": {
+        "SwipeForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.outfit7.talkingtomgoldrun": {
+    "DisplayName": "Talking Tom Gold Run",
+    "Version": {
+      "Any": {
+        "SwipeForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.sega.sonic2017amazon": {
+    "DisplayName": "Sonic Forces",
+    "Version": {
+      "Any": {
+        "SwipeForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.JurassicDinosaurSimulator.amazon": {
+    "DisplayName": "Jurassic Dinos Free",
+    "Version": {
+      "Any": {
+        "SwipeForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.samuraiscreed.amazon": {
+    "DisplayName": "Samurai's Creed: Dead Army",
+    "Version": {
+      "Any": {
+        "SwipeForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.lc.robotstanks.amazon": {
+    "DisplayName": "Robots Tanks",
+    "Version": {
+      "Any": {
+        "SwipeForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.om.blockymotorbikes.amazon": {
+    "DisplayName": "Blocky Motorbikes",
+    "Version": {
+      "Any": {
+        "SwipeForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.lc.realmotorbike.amazon": {
+    "DisplayName": "Real Motor Bike Racing",
+    "Version": {
+      "Any": {
+        "SwipeForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.gv.longer.hairs": {
+    "DisplayName": "Hair Longer Challenge : Long Your Hairs",
+    "Version": {
+      "Any": {
+        "SwipeForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.robtopx.geometryjump": {
+    "DisplayName": "Geometry Dash",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled",
+        "TapForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.robtopx.geometryjumplite": {
+    "DisplayName": "Geometry Dash Lite",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled",
+        "TapForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.robtopx.geometrydashmeltdown": {
+    "DisplayName": "Geometry Dash Meltdown",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled",
+        "TapForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.budgestudios.amazon.Everrun": {
+    "DisplayName": "EverRun: The Horse Guardians - Epic Endless Runner",
+    "Version": {
+      "Any": {
+        "SwipeForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.labcave.robberraceescapeamazon": {
+    "DisplayName": "Robber Race Escape: The Police Car Racing Game",
+    "Version": {
+      "Any": {
+        "SwipeForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.outfit7.talkingtomjetski2": {
+    "DisplayName": "Talking Tom Jetski 2",
+    "Version": {
+      "Any": {
+        "SlideForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.gameartsy.fat.body": {
+    "DisplayName": "Fat Body Race 2 Fit Body Race Run Challenge 3D Body girl race food healthy run makeover challenge",
+    "Version": {
+      "Any": {
+        "SlideForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.candycane.iceskaterslide": {
+    "DisplayName": "Ice Skater Slide - Sky Roller",
+    "Version": {
+      "Any": {
+        "SlideForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.budgestudios.amazon.HotWheelsUnlimited": {
+    "DisplayName": "Hot Wheels Unlimited",
+    "Version": {
+      "Any": {
+        "TapForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.imayi.monstertruckgofree": {
+    "DisplayName": "Monster Truck Go - Racing Simulator for Kids",
+    "Version": {
+      "Any": {
+        "TapForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.rkgames.smashywantedreal": {
+    "DisplayName": "Smashy Road: Wanted",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled",
+        "TapForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.bimiboo.runner": {
+    "DisplayName": "Car games for toddlers",
+    "Version": {
+      "Any": {
+        "TapForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.renderedideas.taxidriving": {
+    "DisplayName": "Taxi Driving 3D",
+    "Version": {
+      "Any": {
+        "Comment": "WASD/arrows => steering + gas/brake",
+        "TapForKey0": [ 65, 13, 81 ],
+        "TapForKey1": [ 68, 28, 81 ],
+        "TapForKey2": [ 83, 78, 81 ],
+        "TapForKey3": [ 87, 91, 81 ],
+        "TapForKey4": [ 37, 13, 81 ],
+        "TapForKey5": [ 39, 28, 81 ],
+        "TapForKey6": [ 40, 78, 81 ],
+        "TapForKey7": [ 38, 91, 81 ]
+      }
+    }
+  },
+
+  "ru.aag.drivecarspidersimulator": {
+    "DisplayName": "Drive Car Spider Simulator",
+    "Version": {
+      "Any": {
+        "Comment": "WASD/arrows => steering + gas/brake; space => shoot web",
+        "TapForKey0": [ 65, 8, 77 ],
+        "TapForKey1": [ 68, 18, 77 ],
+        "TapForKey2": [ 83, 87, 77 ],
+        "TapForKey3": [ 87, 96, 77 ],
+        "TapForKey4": [ 37, 8, 77 ],
+        "TapForKey5": [ 39, 18, 77 ],
+        "TapForKey6": [ 40, 87, 77 ],
+        "TapForKey7": [ 38, 96, 77 ],
+        "TapForKey8": [ 32, 93, 48 ]
+      }
+    }
+  },
+
+  "com.renderedideas.carstunt": {
+    "DisplayName": "Car Stunt",
+    "Version": {
+      "Any": {
+        "Comment": "WASD/arrows => steering + gas/brake; space => boost",
+        "TapForKey0": [ 65, 12, 85 ],
+        "TapForKey1": [ 68, 27, 85 ],
+        "TapForKey2": [ 83, 75, 80 ],
+        "TapForKey3": [ 87, 89, 80 ],
+        "TapForKey4": [ 37, 12, 85 ],
+        "TapForKey5": [ 39, 27, 85 ],
+        "TapForKey6": [ 40, 75, 80 ],
+        "TapForKey7": [ 38, 89, 80 ],
+        "TapForKey8": [ 32, 89, 40 ]
+      }
+    }
+  },
+
+  "com.cmplay.tiles2_amazon": {
+    "DisplayName": "Piano Tiles 2",
+    "Version": {
+      "Any": {
+        "Comment": "Numbers 1-4 => columns",
+        "TapForKey0": [ 49, 12, 50 ],
+        "TapForKey1": [ 50, 38, 50 ],
+        "TapForKey2": [ 51, 63, 50 ],
+        "TapForKey3": [ 52, 88, 50 ]
+      }
+    }
+  },
+
+  "com.outfit7.talkingtomcandyrun": {
+    "DisplayName": "Talking Tom Candy Run",
+    "Version": {
+      "Any": {
+        "Comment": "WASD/arrows => down + up",
+        "TapForKey0": [ 83, 10, 82 ],
+        "TapForKey1": [ 87, 90, 82 ],
+        "TapForKey2": [ 40, 10, 82 ],
+        "TapForKey3": [ 38, 90, 82 ]
+      }
+    }
+  },
+
+  "com.i6.motocross_motorbike_simulator": {
+    "DisplayName": "Motocross Motorbike Simulator",
+    "Version": {
+      "Any": {
+        "Comment": "WASD/arrows => steering + gas/brake; space => boost",
+        "TapForKey0": [ 65, 6, 90 ],
+        "TapForKey1": [ 68, 21, 90 ],
+        "TapForKey2": [ 83, 76, 90 ],
+        "TapForKey3": [ 87, 93, 90 ],
+        "TapForKey4": [ 37, 6, 90 ],
+        "TapForKey5": [ 39, 21, 90 ],
+        "TapForKey6": [ 40, 76, 90 ],
+        "TapForKey7": [ 38, 93, 90 ],
+        "TapForKey8": [ 32, 6, 67 ]
+      }
+    }
+  },
+
+  "com.fz.car.stunts.derby": {
+    "DisplayName": "Impossible Mega Ramp Extreme Car Stunts: Master Car Racing Game 2019",
+    "Version": {
+      "Any": {
+        "Comment": "WASD/arrows => steering + gas/brake",
+        "TapForKey0": [ 65, 10, 83 ],
+        "TapForKey1": [ 68, 28, 83 ],
+        "TapForKey2": [ 83, 72, 83 ],
+        "TapForKey3": [ 87, 90, 83 ],
+        "TapForKey4": [ 37, 10, 83 ],
+        "TapForKey5": [ 39, 28, 83 ],
+        "TapForKey6": [ 40, 72, 83 ],
+        "TapForKey7": [ 38, 90, 83 ]
+      }
+    }
+  },
+
+  "com.OppanaGames.MuscleCarZL": {
+    "DisplayName": "Muscle Car ZL",
+    "Version": {
+      "Any": {
+        "Comment": "WASD/arrows => steering + gas/brake",
+        "TapForKey0": [ 65, 10, 83 ],
+        "TapForKey1": [ 68, 23, 83 ],
+        "TapForKey2": [ 83, 81, 83 ],
+        "TapForKey3": [ 87, 93, 83 ],
+        "TapForKey4": [ 37, 10, 83 ],
+        "TapForKey5": [ 39, 23, 83 ],
+        "TapForKey6": [ 40, 81, 83 ],
+        "TapForKey7": [ 38, 93, 83 ]
+      }
+    }
+  },
+
+  "com.OppanaGames.MuscleCarChallenger": {
+    "DisplayName": "Muscle Car Challenger",
+    "Version": {
+      "Any": {
+        "Comment": "WASD/arrows => steering + gas/brake",
+        "TapForKey0": [ 65, 10, 83 ],
+        "TapForKey1": [ 68, 23, 83 ],
+        "TapForKey2": [ 83, 81, 83 ],
+        "TapForKey3": [ 87, 93, 83 ],
+        "TapForKey4": [ 37, 10, 83 ],
+        "TapForKey5": [ 39, 23, 83 ],
+        "TapForKey6": [ 40, 81, 83 ],
+        "TapForKey7": [ 38, 93, 83 ]
+      }
+    }
+  },
+
+  "com.iabuzz.apk.BEEPZZ": {
+    "DisplayName": "Car racing game for Kids - Beepzz animal cars fun adventure",
+    "Version": {
+      "Any": {
+        "Comment": "WASD/arrows => forward/backward/jump",
+        "TapForKey0": [ 87, 6, 86 ],
+        "TapForKey1": [ 65, 80, 86 ],
+        "TapForKey2": [ 68, 94, 86 ],
+        "TapForKey3": [ 38, 6, 86 ],
+        "TapForKey4": [ 37, 80, 86 ],
+        "TapForKey5": [ 39, 94, 86 ]
+      }
+    }
+  },
+
+  "com.subway.ninjagames": {
+    "DisplayName": "Super Ninja Game 2016",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled",
+        "Comment": "WASD/arrows => forward/backward/jump",
+        "TapForKey0": [ 65, 7, 90 ],
+        "TapForKey1": [ 68, 19, 90 ],
+        "TapForKey2": [ 87, 93, 90 ],
+        "TapForKey3": [ 37, 7, 90 ],
+        "TapForKey4": [ 39, 19, 90 ],
+        "TapForKey5": [ 38, 93, 90 ]
+      }
+    }
+  },
+
+  "com.aim.rallyhum": {
+    "DisplayName": "Extreme SUV Driving Simulator",
+    "Version": {
+      "Any": {
+        "Comment": "WASD/arrows => steering + gas/brake",
+        "TapForKey0": [ 65, 8, 73 ],
+        "TapForKey1": [ 68, 21, 73 ],
+        "TapForKey2": [ 83, 79, 73 ],
+        "TapForKey3": [ 87, 93, 73 ],
+        "TapForKey4": [ 37, 8, 73 ],
+        "TapForKey5": [ 39, 21, 73 ],
+        "TapForKey6": [ 40, 79, 73 ],
+        "TapForKey7": [ 38, 93, 73 ]
+      }
+    }
+  },
+
+  "com.aim.racing": {
+    "DisplayName": "Extreme Car Driving Simulator 3D",
+    "Version": {
+      "Any": {
+        "Comment": "WASD/arrows => steering + gas/brake",
+        "TapForKey0": [ 65, 8, 73 ],
+        "TapForKey1": [ 68, 20, 73 ],
+        "TapForKey2": [ 83, 80, 73 ],
+        "TapForKey3": [ 87, 91, 73 ],
+        "TapForKey4": [ 37, 8, 73 ],
+        "TapForKey5": [ 39, 20, 73 ],
+        "TapForKey6": [ 40, 80, 73 ],
+        "TapForKey7": [ 38, 91, 73 ]
+      }
+    }
+  },
+
+  "com.aim.racingisland": {
+    "DisplayName": "Car Driving Racing Simulator",
+    "Version": {
+      "Any": {
+        "Comment": "WASD/arrows => steering + gas/brake; space => boost",
+        "TapForKey0": [ 65, 9, 71 ],
+        "TapForKey1": [ 68, 21, 71 ],
+        "TapForKey2": [ 83, 74, 71 ],
+        "TapForKey3": [ 87, 86, 71 ],
+        "TapForKey4": [ 37, 9, 71 ],
+        "TapForKey5": [ 39, 21, 71 ],
+        "TapForKey6": [ 40, 74, 71 ],
+        "TapForKey7": [ 38, 86, 71 ],
+        "TapForKey8": [ 32, 94, 71 ]
+      }
+    }
+  },
+
+  "com.aim.racing.ny": {
+    "DisplayName": "Car Driving Simulator: New York",
+    "Version": {
+      "Any": {
+        "Comment": "WASD/arrows => steering + gas/brake",
+        "TapForKey0": [ 65, 10, 71 ],
+        "TapForKey1": [ 68, 22, 71 ],
+        "TapForKey2": [ 83, 79, 71 ],
+        "TapForKey3": [ 87, 94, 71 ],
+        "TapForKey4": [ 37, 10, 71 ],
+        "TapForKey5": [ 39, 22, 71 ],
+        "TapForKey6": [ 40, 79, 71 ],
+        "TapForKey7": [ 38, 94, 71 ]
+      }
+    }
+  },
+
+  "com.aim.racing.sf": {
+    "DisplayName": "Car Driving Simulator: San Francisco",
+    "Version": {
+      "Any": {
+        "Comment": "WASD/arrows => steering + gas/brake",
+        "TapForKey0": [ 65, 10, 71 ],
+        "TapForKey1": [ 68, 22, 71 ],
+        "TapForKey2": [ 83, 83, 71 ],
+        "TapForKey3": [ 87, 94, 71 ],
+        "TapForKey4": [ 37, 10, 71 ],
+        "TapForKey5": [ 39, 22, 71 ],
+        "TapForKey6": [ 40, 83, 71 ],
+        "TapForKey7": [ 38, 94, 71 ]
+      }
+    }
+  },
+
+  "com.wb.lego.tcs": {
+    "DisplayName": "LEGO Star Wars: The Complete Saga",
+    "Version": {
+      "Any": {
+        "JoystickForWASDKeys": [ 15, 80 ]
+      }
+    }
+  },
+
+  "com.fgol.HungrySharkEvolution": {
+    "DisplayName": "Hungry Shark Evolution",
+    "Version": {
+      "Any": {
+        "JoystickForWASDKeys": [ 15, 80 ],
+        "JoystickForArrowKeys": [ 85, 80 ],
+        "TapForKey0": [ 32, 50, 80 ]
+      }
+    }
+  },
+
+
+  "com.Amazon.ExtrudeGaming.flying.man.spider.hero.games": {
+    "DisplayName": "Flying Spider Hero - The Super Hero Game 2021",
+    "Version": {
+      "Any": {
+        "JoystickForWASDKeys": [ 14, 82 ],
+        "AimForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.ng.flyinggames.herogames.spidergames.revenge": {
+    "DisplayName": "Revenge of Flying Hero Spider",
+    "Version": {
+      "Any": {
+        "JoystickForWASDKeys": [ 14, 79 ],
+        "AimForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.FoxieGames.HorseRidingTales": {
+    "DisplayName": "Horse Riding Tales - Ride With Friends",
+    "Version": {
+      "Any": {
+        "JoystickForWASDKeys": [ 9, 81 ],
+        "AimForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.rappidstudios.simulatorbattlephysics": {
+    "DisplayName": "Epic Battle Simulator 2",
+    "Version": {
+      "Any": {
+        "JoystickForWASDKeys": [ 7, 86 ]
+      }
+    }
+  },
+
+  "com.pickle.FlyingCarDrivingSimulator": {
+    "DisplayName": "Flying Car Driving Simulator",
+    "Version": {
+      "Any": {
+        "Comment": "WASD => steering; arrows => gas/brake",
+        "JoystickForWASDKeys": [ 16, 72 ],
+        "TapForKey0": [ 40, 71, 78 ],
+        "TapForKey1": [ 38, 87, 78 ]
+      }
+    }
+  },
+
+  "com.cheshirex.stick_man_the_fight": {
+    "DisplayName": "Stick Man The Fight",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled",
+        "JoystickForWASDKeys": [ 10, 84 ],
+        "JoystickForArrowKeys": [ 88, 84 ]
+      }
+    }
+  },
+
+  "com.oneworld.ef5.x": {
+    "DisplayName": "Ace Force: Joint Combat",
+    "Version": {
+      "Any": {
+        "Comment": "WASD => steering; arrows => maneuvers; space => missiles; enter => turret",
+        "JoystickForWASDKeys": [ 16, 70 ],
+        "SwipeForArrowKeys": "Enabled",
+        "TapForKey0": [ 32, 92, 35 ],
+        "TapForKey1": [ 13, 92, 64 ]
+      }
+    }
+  },
+
+  "com.mbg.helicopter": {
+    "DisplayName": "Police Helicopter On Duty 3D",
+    "Version": {
+      "Any": {
+        "Comment": "WASD => steering; arrows => hover up/down",
+        "JoystickForWASDKeys": [ 9, 81 ],
+        "TapForKey0": [ 38, 94, 40 ],
+        "TapForKey1": [ 40, 94, 70 ]
+      }
+    }
+  },
+
+  "com.wizardgames.crossingdead": {
+    "DisplayName": "The Crossing Dead",
+    "Version": {
+      "Any": {
+        "JoystickForWASDKeys": [ 17, 72 ],
+        "SwipeForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.tencent.ig": {
+    "DisplayName": "PUBG Mobile",
+    "Version": {
+      "Any": {
+        "JoystickForWASDKeys": [ 16, 74 ],
+        "AimForArrowKeys": "Enabled",
+        "TapForKey0": [ 32, 84, 73 ]
+      }
+    }
+  },
+
+  "com.hotheadgames.amazon.free.ks2": {
+    "DisplayName": "Kill Shot Bravo",
+    "Version": {
+      "Any": {
+        "AimForArrowKeys": "Enabled",
+        "TapForKey0": [ 32, 91, 83 ]
+      }
+    }
+  },
+
+  "com.KodiiSystems.Prison": {
+    "DisplayName": "Zombie Prison Escape",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled",
+        "JoystickForWASDKeys": [ 7, 88 ],
+        "AimForArrowKeys": "Enabled",
+        "TapForKey0": [ 32, 93, 88 ]
+      }
+    }
+  },
+
+  "com.OppanaGames.Strike.Force.Online.FPS": {
+    "DisplayName": "Strike Force Online FPS Shooting Games",
+    "Version": {
+      "Any": {
+        "JoystickForWASDKeys": [ 12, 78 ],
+        "AimForArrowKeys": "Enabled",
+        "TapForKey0": [ 32, 85, 78 ]
+      }
+    }
+  },
+
+  "ocean.nomad.survival.simulator.amazon": {
+    "DisplayName": "Raft Survival: Ocean Nomad - Simulator",
+    "Version": {
+      "Any": {
+        "JoystickForWASDKeys": [ 10, 80 ],
+        "AimForArrowKeys": "Enabled",
+        "TapForKey0": [ 32, 84, 72 ]
+      }
+    }
+  },
+
+  "com.PixelGun.a3D": {
+    "DisplayName": "Pixel Gun 3D (Pocket Edition)",
+    "Version": {
+      "Any": {
+        "JoystickForWASDKeys": [ 9, 77 ],
+        "AimForArrowKeys": "Enabled",
+        "TapForKey0": [ 13, 91, 87 ],
+        "TapForKey1": [ 32, 79, 74 ]
+      }
+    }
+  },
+
+  "com.gamespire.gbr": {
+    "DisplayName": "Grand Battle Royale",
+    "Version": {
+      "Any": {
+        "JoystickForWASDKeys": [ 15, 80 ],
+        "AimForArrowKeys": "Enabled",
+        "TapForKey0": [ 32, 78, 63 ]
+      }
+    }
+  },
+
+  "com.JailWall.DinosaurWoodsCraft": {
+    "DisplayName": "Dinosaur Woods Craft",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled",
+        "Comment": "WASD/arrows => movement; space => attack",
+        "TapForKey0": [ 65, 5, 74 ],
+        "TapForKey1": [ 68, 21, 74 ],
+        "TapForKey2": [ 83, 13, 89 ],
+        "TapForKey3": [ 87, 13, 59 ],
+        "TapForKey4": [ 37, 5, 74 ],
+        "TapForKey5": [ 39, 21, 74 ],
+        "TapForKey6": [ 40, 13, 89 ],
+        "TapForKey7": [ 38, 13, 59 ],
+        "TapForKey8": [ 32, 88, 77 ]
+      }
+    }
+  },
+
+  "com.secg.dinocraft": {
+    "DisplayName": "DinoCraft",
+    "Version": {
+      "Any": {
+        "Comment": "WASD => movement; space => jump",
+        "TapForKey0": [ 65, 6, 77 ],
+        "TapForKey1": [ 68, 18, 77 ],
+        "TapForKey2": [ 83, 12, 88 ],
+        "TapForKey3": [ 87, 12, 67 ],
+        "TapForKey8": [ 32, 92, 75 ],
+        "AimForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.tellurionmobile.adventurecraft": {
+    "DisplayName": "AdventureCraft",
+    "Version": {
+      "Any": {
+        "Comment": "WASD => movement; space => jump",
+        "TapForKey0": [ 65, 6, 77 ],
+        "TapForKey1": [ 68, 18, 77 ],
+        "TapForKey2": [ 83, 12, 88 ],
+        "TapForKey3": [ 87, 12, 67 ],
+        "TapForKey8": [ 32, 92, 75 ],
+        "AimForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.mobadu.Mazecrafter": {
+    "DisplayName": "Pixel Labyrinth",
+    "Version": {
+      "Any": {
+        "Comment": "WASD/arrows => movement; space => stop; enter => jump",
+        "TapForKey0": [ 65, 6, 75 ],
+        "TapForKey1": [ 68, 25, 75 ],
+        "TapForKey2": [ 83, 16, 91 ],
+        "TapForKey3": [ 87, 16, 59 ],
+        "TapForKey4": [ 37, 6, 75 ],
+        "TapForKey5": [ 39, 25, 75 ],
+        "TapForKey6": [ 40, 16, 91 ],
+        "TapForKey7": [ 38, 16, 59 ],
+        "TapForKey8": [ 32, 16, 75 ],
+        "TapForKey9": [ 13, 92, 73 ]
+      }
+    }
+  },
+
+  "com.iz.preschool.games.puzzles.kindergarden.activities": {
+    "DisplayName": "Preschool Games for 2-5 Year Olds - Kids Learning App",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "air.com.internetdesignzone.nurseryrhymes": {
+    "DisplayName": "Kidloland",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.YovoGames.dentist": {
+    "DisplayName": "Children doctor: dentist",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.iz.baby.games.kids.toddler.learning.shark.puzzle.game": {
+    "DisplayName": "Toddler Games for 2-4 Year Olds",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.iz.coloring.games.book.drawing.painting.color.by.number.kids.baby": {
+    "DisplayName": "Coloring Games for Kids and Drawing Book for Toddlers",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.iz.bubble.balloon.popping.games.for.kids": {
+    "DisplayName": "Baby Games 1-2 Year Olds: Balloon Pop Game",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.baby.toddler.games": {
+    "DisplayName": "Baby Puzzles, Toddler Games - Preschool and Kindergarten Learning Games For Kids",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.zhiliaoapp.musically": {
+    "DisplayName": "TikTok",
+    "Version": {
+      "Any": {
+        "ShowIMEView": "Enabled"
+      }
+    }
+  },
+
+  "com.gonoodle.gonoodle.amazon": {
+    "DisplayName": "GoNoodle - Kids Videos",
+    "Version": {
+      "Any": {
+        "DisableSmoothResize": "Enabled",
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.amazon.webapps.gms.search": {
+    "DisplayName": "Google Search",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.batoki.kids.toddlers.supermarket.shopping": {
+    "DisplayName": "Supermarket Shopping for Kids : Educational Game for kids - FREE",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.bejoymobile.kidsdoodle.mirror": {
+    "DisplayName": "Kids Doodle - Mirror Draw",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.BestFunGames.ChainedCarsRacingSpeedDrive": {
+    "DisplayName": "Chained Cars Speed Racing - Chain Break Driving",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.bible.kids": {
+    "DisplayName": "Bible for Kids",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.bigbluebubble.singingmonsters.amazon": {
+    "DisplayName": "My Singing Monsters",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.bigfishgames.gummydropamazon": {
+    "DisplayName": "Gummy Drop!",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.bimiboo.birthday": {
+    "DisplayName": "Baby games for 2-5 year olds",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.bimiboo.drawing": {
+    "DisplayName": "Baby Coloring Games for Kids",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.bimiboo.playandlearn": {
+    "DisplayName": "Toddler games for 2-5 year olds",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.bimiboo.puzzles": {
+    "DisplayName": "Games for Toddlers 3-4",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.bytestorm.artflow": {
+    "DisplayName": "ArtFlow - Sketch, Paint, Draw",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.concretesoftware.pbachallenge_amazonfree": {
+    "DisplayName": "PBA® Bowling Challenge",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.criticalhitsoftware.jigsawpuzzle": {
+    "DisplayName": "Jigsaw Puzzle Kindle Edition",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.ddi": {
+    "DisplayName": "Vegas Slots - DoubleDown Casino",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.degoo.amazon.icecreammaker": {
+    "DisplayName": "Ice Cream Maker - cooking game & snacks cookie coffee chocolate inside",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.devapps.videocallsanta": {
+    "DisplayName": "Live video call santa christmas",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.dogbytegames.offroadlegends_sahara": {
+    "DisplayName": "Offroad Legends Sahara",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.dogbytegames.offtheroad": {
+    "DisplayName": "Off The Road - OTR Open World Driving",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.doodlejoy.studio.doodleworld": {
+    "DisplayName": "Paint Pad HD - Drawing Everywhere",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.doodlejoy.studio.kaleidoo": {
+    "DisplayName": "Magic Paintor - Kaleido Draw Pad",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.doodlejoy.studio.kidsdoojoy": {
+    "DisplayName": "Kids Doodle 2 - Color & Draw",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.doodlejoy.studio.sketcherguru": {
+    "DisplayName": "Sketch Guru - Handy Sketch Pad",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.doubletapsoftware.basketballbattle": {
+    "DisplayName": "Basketball Battle",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.doubleugames.DoubleUCasino": {
+    "DisplayName": "DoubleU Casino - Vegas Fun Free Slots, Video Poker & Bonuses! Spin & Hit the Jackpot!",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.ea.game.simcitymobile_azn": {
+    "DisplayName": "SimCity BuildIt",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.fdgentertainment.coverorange2amazon": {
+    "DisplayName": "Cover Orange: Journey",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.flyingmesh.glow": {
+    "DisplayName": "Kids Glow - Doodle with Stars!",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.funkidsgame.amazon.footsurgery": {
+    "DisplayName": "Foot Surgery Doctor Salon - Free Doctor Game",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.funkidsgame.amazon.mynewbabytwinsstory": {
+    "DisplayName": "Kids Newborn Twins - Pregnancy & Kids Grows Up",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.funplus.familyfarm": {
+    "DisplayName": "Family Farm Seaside",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.future.HappyKids": {
+    "DisplayName": "HappyKids - Popular Shows, Movies and Educational Videos for Children",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.g6677.amazon.emergencysurgery": {
+    "DisplayName": "Emergency Surgery Simulator - Doctor Game",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.g6677.amazon.lpetvet": {
+    "DisplayName": "Baby Pet Vet Doctor - kids games",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.gamehivecorp.beattheboss4": {
+    "DisplayName": "Beat the Boss 4",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.gamesbypost.cribbageclassic": {
+    "DisplayName": "Cribbage Classic",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.gdx.f2015face": {
+    "DisplayName": "Avatar Maker",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.hcg.cok.amazon": {
+    "DisplayName": "Clash of Kings",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.hitcents.stickmanepicfree": {
+    "DisplayName": "Draw a Stickman: EPIC Free",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.idc.NewBornBabyPetCare": {
+    "DisplayName": "New Born Baby PetCare",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.igg.castleclash_amazon": {
+    "DisplayName": "Castle Clash",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.lotsaslots.slots.casino.free.amazon": {
+    "DisplayName": "Lotsa Slots - Vegas Casino SLOTS Free with bonus",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.my.mail": {
+    "DisplayName": "myMail - Free Email Manager for Yahoo, Gmail, Hotmail, Outlook, Live, MSN and AOL Mail",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.mytona.seekersnotes.android.amazon": {
+    "DisplayName": "Seekers Notes: Hidden Mystery",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.natenai.glowhockeyamazon": {
+    "DisplayName": "Glow Hockey",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.nbc.nbcapp": {
+    "DisplayName": "NBC - Watch Full TV Episodes",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.originatorkids.EndlessWordplay": {
+    "DisplayName": "Endless Wordplay",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.outfit7.tomlovesangelafree": {
+    "DisplayName": "Tom Loves Angela",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.pickle.policeblockcity": {
+    "DisplayName": "Police Block City",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.PinkPiano.TilesGame": {
+    "DisplayName": "Magic piano Pink Music",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.playfirst.playground.dinerdashspongebob": {
+    "DisplayName": "SpongeBob Diner Dash",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.sagosago.Friends": {
+    "DisplayName": "Sago Mini Friends",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.softwego.xray": {
+    "DisplayName": "Xray Scanner",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.sonicjump.sonicjump": {
+    "DisplayName": "Sonic Jump",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.SuperJungleWorldAdventuresfree.game": {
+    "DisplayName": "Super Jungle World Adventures",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.tap42.pawrunpuppiespatrolamz": {
+    "DisplayName": "Run Puppies Run",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.tapto.crawl.io.pro": {
+    "DisplayName": "crawl.io",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.tfgco.apps.coloring.free.color.by.number": {
+    "DisplayName": "Color by Number: Coloring Book Free - Pixel Art",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.topfreegames.bikeracefreeworld": {
+    "DisplayName": "Bike Race Pro by Top Free Games",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.topfreegames.solitaire": {
+    "DisplayName": "Solitaire Vegas!",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.tribeplay.pandaasiankitchen": {
+    "DisplayName": "Dr. Panda Restaurant Asia",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.tribeplay.pandabusxmas": {
+    "DisplayName": "Dr. Panda's Bus Driver: Christmas",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.twelvegigs.heaven.bingo.kindle": {
+    "DisplayName": "BINGO HEAVEN! - Free Bingo Games! Download to Play for free Online or Offline!",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.usatoday.android.gna2": {
+    "DisplayName": "USA Today",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.vectorunit.purple.amazon": {
+    "DisplayName": "Beach Buggy Racing",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.zangent.emailforgmail.amazon": {
+    "DisplayName": "Email For Gmail",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "cz.cfc.free.androidam.BubbleLearnLite": {
+    "DisplayName": "Preschool All-In-One Learning - Bubble School Adventure A to Z",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "jp.glee.girl": {
+    "DisplayName": "放置少女 〜百花繚乱の萌姫たち",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "kr.co.smartstudy.bodlebookiapfree_us_android_amazon": {
+    "DisplayName": "Baby Shark Best Kids Songs & Stories",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "org.npr.android.news": {
+    "DisplayName": "NPR News",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "princess.coloring.book.kids": {
+    "DisplayName": "Princess Coloring Book",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.arcadegame.games.bingo.holiday.free.slots.bash": {
+    "DisplayName": "Bingo Holiday: Play Free Bingo Games for Kindle Fire in 2021!",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.bimiboo.adventure": {
+    "DisplayName": "Preschool Games for ages 2-4",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.bimiboo.coloring": {
+    "DisplayName": "Coloring book for kids",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.bimiboo.coloringpuzzles": {
+    "DisplayName": "Puzzles for Kids 2-4",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.bimiboo.colors": {
+    "DisplayName": "Baby Shapes and Colors Kids Games for Boys and Girls",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.bimiboo.mysteries": {
+    "DisplayName": "Learning Games for Toddlers 2-4",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.bimiboo.phone": {
+    "DisplayName": "Baby phone - games for kids",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.bimiboo.tunes": {
+    "DisplayName": "Kids piano",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.crunchyroll.crunchyroid": {
+    "DisplayName": "Crunchyroll",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.facebook.lite": {
+    "DisplayName": "Facebook Lite",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.g6677.amazon.footspa": {
+    "DisplayName": "Foot Spa",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.g6677.amazon.injectionsim": {
+    "DisplayName": "Injection Simulator - Doctor Games",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.g6677.amazon.ldentist": {
+    "DisplayName": "Little Dentist － kids games",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.g6677.amazon.lips": {
+    "DisplayName": "Princess lips SPA - girls games",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.g6677.amazon.phairsalon": {
+    "DisplayName": "Hair Salon - Kids Games",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.imdb.mobile": {
+    "DisplayName": "IMDb Movies & TV",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.sega.sonic4epi": {
+    "DisplayName": "Sonic The Hedgehog 4 Episode I",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.zynga.mobile.amazon.spades": {
+    "DisplayName": "Spades Plus",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "key.perfectpiano.pianistmagictiles": {
+    "DisplayName": "Piano Games Mini: Music Instrument & Rhythm",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.PaperTentGames.Dinosaur.Dinosaur": {
+    "DisplayName": "Dinosaur Games for Kids",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.selfawaregames.acecasino": {
+    "DisplayName": "Big Fish Casino: Vegas Slots & Tons of Fun",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.ruby.webforyoutube": {
+    "DisplayName": "Web For YouTube",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.freemannew.videoforyoutube": {
+    "DisplayName": "Video For YouTube",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.abcya.amazon.games": {
+    "DisplayName": "ABCya! Games",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.kyy.tubevideosB": {
+    "DisplayName": "Videos For YouTube",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "air.slithergames.slither.snake.venom.io.worm": {
+    "DisplayName": "Slithering Worms",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.belkatechnologies.fe": {
+    "DisplayName": "Funky Bay",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.crosswords.connect.sights.en": {
+    "DisplayName": "Word Crossy - A Crossword Game",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.justalk.kids.android": {
+    "DisplayName": "JusTalk Kids - Safer Video Chat",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.kyy.mobiletube": {
+    "DisplayName": "Mobile Tube",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.magikbee.kiddztubelite": {
+    "DisplayName": "KidsBeeTV - Fun Kids Videos & Safe Baby TV Shows",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.miodne_projects.kidspainteasy": {
+    "DisplayName": "Drawing For Kids",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.playhome.plus": {
+    "DisplayName": "My PlayHome Plus",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.renderedideas.missiondestruction": {
+    "DisplayName": "Mission Destruction",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.yiyinkuang.searchboard": {
+    "DisplayName": "Search+ For Google",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.zangent.videoforyoutubeamazon": {
+    "DisplayName": "Video For YouTube",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.ziau.sharkworld": {
+    "DisplayName": "Shark World",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.moonton.magicrush.amazon": {
+    "DisplayName": "Magic Rush: Heroes",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.cartoonface.avatarmaker": {
+    "DisplayName": "Avatar Maker : Cartoon & Anime Face",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.vladmadgames.coloringbook.kids": {
+    "DisplayName": "Animated Glitter Coloring Book - Princess",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.outfit7.talkingangelafree.amazon": {
+    "DisplayName": "Talking Angela",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.puzzin.jigsaw.puzzle": {
+    "DisplayName": "Jigsaw Puzzle Legends",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "poki.obmtech2": {
+    "DisplayName": "Poki Online Games",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.rovio.angrybirdstransformers": {
+    "DisplayName": "Angry Birds Transformers",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "air.com.bridgebase.BridgeBase": {
+    "DisplayName": "Bridge Base Online",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.tutotoons.app.amysanimalhairsalon.free": {
+    "DisplayName": "Amy's Animal Hair Salon - Crazy Fluffy Cats Style Makeovers",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "air.com.qywl.PrincessDollHouseDecoration": {
+    "DisplayName": "Princess Doll House Decoration",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.qvcuk": {
+    "DisplayName": "QVC (UK)",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.daviddev.pony": {
+    "DisplayName": "Glitter Pony Game",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.mangous.crafttool": {
+    "DisplayName": "Craft tool for terraria",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "menloseweight.loseweightappformen.weightlossformen": {
+    "DisplayName": "Lose Weight App for Men",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.sinyee.babybus.career": {
+    "DisplayName": "Baby Panda's Town: Life",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.poppy.playtime.huggy.wuggy_call.kissy.missy": {
+    "DisplayName": "Free Calling",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.sinyee.babybus.dinosaurIII": {
+    "DisplayName": "Little Panda: Dinosaur Care",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.gameone.candycruiseswap.free": {
+    "DisplayName": "Candy Charming - 2022 Match 3 Puzzle Free Games",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.sinyee.babybus.market": {
+    "DisplayName": "Little Panda's Town: My World",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "air.fisherprice.com.codeapillarAmazon": {
+    "DisplayName": "Think & Learn Code-a-pillar",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.ultimateguitar.tabstools": {
+    "DisplayName": "Ultimate Guitar Tabs and Tools",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "de.toggo": {
+    "DisplayName": "TOGGO Videos - Popular children's series streaming & games",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.coloringbook.art.games.coloring.book.pony": {
+    "DisplayName": "Animated Glitter Coloring Book - My Little Unicorn by Numbers",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+  
+  "com.vladmadgames.coloring.unicorns": {
+    "DisplayName": "Animated Glitter Coloring Book - My Little Unicorn",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.tysfgames.magic.music.piano.songs.tiles.tap.pink.az": {
+    "DisplayName": "Free Tile Magic Rythem Piano Music Game",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.yunbu.nonogram.puzzle.am": {
+    "DisplayName": "Nonogram - Jigsaw Puzzle Game",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+  
+  "com.epic.slots.casino.vegas.amazon.avidly": {
+    "DisplayName": "Epic Jackpot Slots - Free Vegas Casino Games",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.ruby.coloring.pages.art.games.anime.manga": {
+    "DisplayName": "Anime Manga Coloring Pages with Animated Effects",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.originatorkids.EndlessNumbers": {
+    "DisplayName": "Endless Numbers",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.phuongthao.SpiralHelixJump": {
+    "DisplayName": "Spiral Jump - Ball Slide",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.renderedideas.skaterkid": {
+    "DisplayName": "Skater Kid",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.sega.sonic1": {
+    "DisplayName": "Sonic The Hedgehog",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  },
+
+  "com.game.wordconnect": {
+    "DisplayName": "Word Connect",
+    "Version": {
+      "Any": {
+        "ForceNonResizeableApp": "Enabled"
+      }
+    }
+  }
+
+}

@@ -1,0 +1,155 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "title": "WSA AppCompat Database",
+  "description": "Shim configurations for Android apps",
+  "type": "object",
+  "required": [ "$schema" ],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "const": "appcompatdb_schema.json"
+    }
+  },
+  "patternProperties": {
+    "^([A-Za-z]{1}[A-Za-z\\d_]*\\.)+[A-Za-z][A-Za-z\\d_]*$": {
+      "type": "object",
+      "required": [ "DisplayName", "Version" ],
+      "additionalProperties": false,
+      "properties": {
+        "DisplayName": {
+          "type": "string"
+        },
+        "Version": {
+          "type": "object",
+          "required": [ "Any" ],
+          "additionalProperties": false,
+          "properties": {
+            "Any": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "Comment": {
+                  "type": "string"
+                },
+                "SwipeForArrowKeys": {
+                  "enum": [ "Enabled", "Disabled" ],
+                  "description": "Injects quick swipes in the direction of the arrow keys"
+                },
+                "SlideForArrowKeys": {
+                  "enum": [ "Enabled", "Disabled" ],
+                  "description": "Emulates keeping a finger down indefinitely and sliding it in the direction of the arrow keys"
+                },
+                "TapForArrowKeys": {
+                  "enum": [ "Enabled", "Disabled" ],
+                  "description": "Injects taps in the half of the window corresponding to the arrow key"
+                },
+                "AimForArrowKeys": {
+                  "enum": [ "Enabled", "Disabled" ],
+                  "description": "Emulates pan gestures with acceleration in the direction of the arrow keys to pivot the game camera"
+                },
+                "ForceNonResizeableApp": {
+                  "enum": [ "Enabled", "Disabled" ],
+                  "description": "Forces Android's resize compatibility mode for the app"
+                },
+                "DisableSmoothResize": {
+                  "enum": [ "Enabled", "Disabled" ],
+                  "description": "Delays sending window resizes to Android until the user finishes resizing the window"
+                },
+                "ShowIMEView": {
+                  "enum": [ "Enabled", "Disabled" ],
+                  "description": "Shows an empty Android IME view when text controls are focused"
+                },
+                "GamePadForKeys": {
+                  "enum": [ "Enabled", "Disabled" ],
+                  "description": "Translates keyboard keys to virtual gamepad buttons"
+                },
+                "TapForKey0": {
+                  "$ref" : "#/definitions/TapForKey*"
+                },
+                "TapForKey1": {
+                  "$ref" : "#/definitions/TapForKey*"
+                },
+                "TapForKey2": {
+                  "$ref" : "#/definitions/TapForKey*"
+                },
+                "TapForKey3": {
+                  "$ref" : "#/definitions/TapForKey*"
+                },
+                "TapForKey4": {
+                  "$ref" : "#/definitions/TapForKey*"
+                },
+                "TapForKey5": {
+                  "$ref" : "#/definitions/TapForKey*"
+                },
+                "TapForKey6": {
+                  "$ref" : "#/definitions/TapForKey*"
+                },
+                "TapForKey7": {
+                  "$ref" : "#/definitions/TapForKey*"
+                },
+                "TapForKey8": {
+                  "$ref" : "#/definitions/TapForKey*"
+                },
+                "TapForKey9": {
+                  "$ref" : "#/definitions/TapForKey*"
+                },
+                "JoystickForWASDKeys": {
+                  "$ref" : "#/definitions/Joystick*"
+                },
+                "JoystickForArrowKeys": {
+                  "$ref" : "#/definitions/Joystick*"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "TapForKey*": {
+      "type": "array",
+      "description": "Maps the key code to tap coordinates",
+      "additionalItems": false,
+      "items": [
+        {
+          "type": "integer",
+          "description": "Windows virtual key code",
+          "minimum": 8,
+          "maximum": 254
+        },
+        {
+          "type": "integer",
+          "description": "X offset percentage",
+          "minimum": 0,
+          "maximum": 100
+        },
+        {
+          "type": "integer",
+          "description": "Y offset percentage",
+          "minimum": 0,
+          "maximum": 100
+        }
+      ]
+    },
+    "Joystick*": {
+      "type": "array",
+      "description": "Adds a virtual joystick centered at the coordinates",
+      "additionalItems": false,
+      "items": [
+        {
+          "type": "integer",
+          "description": "X offset percentage",
+          "minimum": 0,
+          "maximum": 100
+        },
+        {
+          "type": "integer",
+          "description": "Y offset percentage",
+          "minimum": 0,
+          "maximum": 100
+        }
+      ]
+    }
+  }
+}
